@@ -30,7 +30,7 @@ The Airline Reservation Management System is a Java-based application designed t
    - Configure the project SDK and libraries as needed.
 
 3. **Run the Application**:
-   - Compile and run the `Mainframe.java` file to launch the application.
+   - Compile and run the `Login.java` file to launch the application.
    - Ensure that the MySQL database server is running before launching the application.
 
 ## Usage
