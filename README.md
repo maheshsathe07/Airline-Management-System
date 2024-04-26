@@ -42,6 +42,7 @@ The Airline Reservation Management System is a Java-based application designed t
 ## Contributors
 
 - [Mahesh Sathe](https://github.com/maheshsathe07)
+- [Prem Shejole](https://github.com/shejoleprem)
 
 ## License
 
